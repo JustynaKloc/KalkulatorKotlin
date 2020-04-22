@@ -3,7 +3,7 @@ package main.operator
 import main.Operand
 import main.Operator
 
-class ModulusOperator internal constructor() : Operator(2, "%") {
+class ModulusOperator internal constructor() : Operator(2, "mod") {
 
     override fun getPrecedence() = 0
 

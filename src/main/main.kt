@@ -62,9 +62,9 @@ class MyView: View() {
                 "+" -> {opAction(Op.add(displayValue)); displayStack.text += "+" }
                 "-" -> {opAction(Op.sub(displayValue)); displayStack.text += "-" }
                 "/" -> {opAction(Op.div(displayValue)); displayStack.text += "/" }
-                "%" -> { opAction(Op.add(displayValue / 100)); op("=") ; displayStack.text += "%" }
+                "%" -> { opAction(Op.add(displayValue / 100)); display.text = curried.calc(displayValue).toString(); displayStack.text = display.text}
                 "x" -> {opAction(Op.mult(displayValue)); displayStack.text += "x" }
-                "C" -> {opAction(Op.add(0.0F)); displayStack.text += "" }
+                "C" -> {opAction(Op.add(0.0F)); displayStack.text = "" }
                 "+/-" -> { opAction(Op.add(-1 * displayValue))}//; op("=") }
                 "=" -> {
                     //display.text = curried.calc(displayValue).toString()
@@ -80,7 +80,7 @@ class MyView: View() {
                 "cos" -> {opAction(Op.add(cos(displayValue.toFloat()).toFloat())); displayStack.text += "cos" }//; op("=")}
                 "x^2" -> {opAction(Op.add(displayValue * displayValue))}//; op("=")}
                 "√x" -> {opAction(Op.add(sqrt(displayValue.toFloat()).toFloat())); displayStack.text += "√" }//; op("=")}
-                "tan" -> {opAction(Op.add((tan((displayValue.toFloat())).toFloat()))); displayStack.text += "√" }//; op("=")}
+                "tan" -> {opAction(Op.add((tan((displayValue.toFloat())).toFloat()))); displayStack.text += "tan" }//; op("=")}
                 "e^x" -> {opAction(Op.add((exp((displayValue.toFloat())).toFloat()))); displayStack.text += "e^x" }//; op("=")}
                 "log" -> {opAction(Op.add((log10((displayValue.toFloat())).toFloat()))); displayStack.text += "log" }//; op("=")}
                 "2^x" -> {opAction((Op.add(2.0F.pow(displayValue)))); displayStack.text += "2^x" }//; op("=")}

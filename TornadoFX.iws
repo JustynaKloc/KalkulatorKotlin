@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b13e29a-66a0-4499-8f68-5c3cb5e00780" name="Default" comment="" />
+    <list default="true" id="7b13e29a-66a0-4499-8f68-5c3cb5e00780" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/TornadoFX.iws" beforeDir="false" afterPath="$PROJECT_DIR$/TornadoFX.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/MyView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/MyView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/ModulusOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/ModulusOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/CeilingFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/FloorFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/FunctionOperator$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/FunctionOperator$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/FunctionOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/FunctionOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/RoundFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/SquareRootFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/SquareRootFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/ModulusOperator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/operator/ModulusOperator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/function/CeilingFunction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/function/FloorFunction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/function/FunctionOperator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/operator/function/FunctionOperator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/function/RoundFunction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/function/SquareRootFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/operator/function/SquareRootFunction.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +38,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZAZN4o0UYZnrGCChsGKAPEGMOq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -125,45 +143,49 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="559" y="185" key="#Project_Structure/0.0.1920.1044@0.0.1920.1044" timestamp="1584283838286" />
-    <state x="697" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585575617282">
+    <state x="697" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585593277634">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state x="697" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1585575617282" />
-    <state x="747" y="240" key="FileChooserDialogImpl" timestamp="1584300406750">
+    <state x="697" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1585593277634" />
+    <state x="747" y="240" key="FileChooserDialogImpl" timestamp="1587364484288">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state x="747" y="240" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1584300406750" />
-    <state width="937" height="222" key="GridCell.Tab.0.bottom" timestamp="1585588796008">
+    <state x="747" y="240" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1587364484288" />
+    <state width="937" height="220" key="GridCell.Tab.0.bottom" timestamp="1587239920454">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="937" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1585588796008" />
-    <state width="937" height="222" key="GridCell.Tab.0.center" timestamp="1585588796007">
+    <state width="937" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1044/0.0.1920.1044@0.0.1920.1044" timestamp="1587239920454" />
+    <state width="937" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1586861623762" />
+    <state width="937" height="220" key="GridCell.Tab.0.center" timestamp="1587239920454">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="937" height="222" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1585588796007" />
-    <state width="937" height="222" key="GridCell.Tab.0.left" timestamp="1585588796006">
+    <state width="937" height="220" key="GridCell.Tab.0.center/0.0.1920.1044/0.0.1920.1044@0.0.1920.1044" timestamp="1587239920454" />
+    <state width="937" height="220" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1586861623761" />
+    <state width="937" height="220" key="GridCell.Tab.0.left" timestamp="1587239920453">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="937" height="222" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1585588796006" />
-    <state width="937" height="222" key="GridCell.Tab.0.right" timestamp="1585588796008">
+    <state width="937" height="220" key="GridCell.Tab.0.left/0.0.1920.1044/0.0.1920.1044@0.0.1920.1044" timestamp="1587239920453" />
+    <state width="937" height="220" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1586861623761" />
+    <state width="937" height="220" key="GridCell.Tab.0.right" timestamp="1587239920454">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="937" height="222" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1585588796008" />
-    <state x="601" y="219" key="NewModule_or_Project.wizard" timestamp="1584300421812">
+    <state width="937" height="220" key="GridCell.Tab.0.right/0.0.1920.1044/0.0.1920.1044@0.0.1920.1044" timestamp="1587239920454" />
+    <state width="937" height="220" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1586861623762" />
+    <state x="601" y="219" key="NewModule_or_Project.wizard" timestamp="1587364491015">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state x="601" y="219" key="NewModule_or_Project.wizard/0.0.1920.1044@0.0.1920.1044" timestamp="1584300421812" />
+    <state x="601" y="219" key="NewModule_or_Project.wizard/0.0.1920.1044@0.0.1920.1044" timestamp="1587364491015" />
     <state x="447" y="101" key="SettingsEditor" timestamp="1584300125494">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="447" y="101" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1584300125494" />
-    <state x="639" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1585579277542">
+    <state x="639" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1587364459971">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state x="639" y="353" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1585579277542" />
-    <state x="679" y="130" key="new project wizard" timestamp="1584365409903">
+    <state x="639" y="353" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1587364459971" />
+    <state x="679" y="130" key="new project wizard" timestamp="1586084650609">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state x="679" y="130" key="new project wizard/0.0.1920.1044@0.0.1920.1044" timestamp="1584365409903" />
+    <state x="679" y="130" key="new project wizard/0.0.1920.1044@0.0.1920.1044" timestamp="1586084650609" />
   </component>
 </project>

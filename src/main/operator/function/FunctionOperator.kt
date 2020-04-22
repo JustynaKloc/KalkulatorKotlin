@@ -20,14 +20,11 @@ abstract class FunctionOperator internal constructor(symbol: String, numOfParams
         val INVERSETAN = InverseTangentFunction()
         val TODEGREES = DegreesFunction()
         val TORADIANS = RadiansFunction()
-        val CEILING = CeilingFunction()
-        val FLOOR = FloorFunction()
         val SQRT = SquareRootFunction()
-        val ROUND = RoundFunction()
         val ABSOLUTE = AbsoluteFunction()
         
         val OPERATORS = arrayOf(
-                SINE, COSINE, TANGENT, TODEGREES, TORADIANS, CEILING, FLOOR, SQRT, ROUND,
+                SINE, COSINE, TANGENT, TODEGREES, TORADIANS, SQRT,
                 INVERSESINE, INVERSECOSINE, INVERSETAN, ABSOLUTE
         )
 
