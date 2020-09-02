@@ -64,7 +64,7 @@ class MyView: View() {
                 "/" -> {opAction(Op.div(displayValue)); displayStack.text += "/" }
                 "%" -> { opAction(Op.add(displayValue / 100)); display.text = curried.calc(displayValue).toString(); displayStack.text = display.text}
                 "x" -> {opAction(Op.mult(displayValue)); displayStack.text += "x" }
-                "C" -> {opAction(Op.add(0.0F)); displayStack.text = "" }
+                "C" -> {opAction(Op.add(0.0F)); displayStack.text = ""}
                 "+/-" -> { opAction(Op.add(-1 * displayValue))}//; op("=") }
                 "=" -> {
                     //display.text = curried.calc(displayValue).toString()
