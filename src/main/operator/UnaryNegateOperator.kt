@@ -3,7 +3,7 @@ package main.operator
 import main.Operand
 import main.Operator
 
-class UnaryNegateOperator internal constructor() : Operator(1, "-") {
+class UnaryNegateOperator internal constructor() : Operator(1, "+/-") {
 
     override fun getPrecedence() = 4
 

@@ -9,5 +9,5 @@ class SquareRootFunction internal constructor() : FunctionOperator("√", 1) {
         return Operand(Math.sqrt(operands[0].value.toDouble()).bd)
     }
 
-    override fun toString(): String = "SquareRoot"
+    override fun toString(): String = "SQRT"
 }

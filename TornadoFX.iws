@@ -1,58 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b13e29a-66a0-4499-8f68-5c3cb5e00780" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/TornadoFX.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/TornadoFX.ipr" afterDir="false" />
+    <list default="true" id="7b13e29a-66a0-4499-8f68-5c3cb5e00780" name="Default" comment="kupa.">
+      <change afterPath="$PROJECT_DIR$/src/main/operator/function/LogFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TornadoFX.iws" beforeDir="false" afterPath="$PROJECT_DIR$/TornadoFX.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/META-INF/TornadoFX.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/META-INF/TornadoFX.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/MyApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/MyApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/MyView$$special$$inlined$forEach$lambda$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/MyView$$special$$inlined$forEach$lambda$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/MyView$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/MyView$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/MyView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/MyView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/MyView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/MyView.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/Op$add.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/Op$add.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/Op$div.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/Op$div.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/Op$iksdoy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/Op$iksdoy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/Op$modulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/Op$modulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/Op$modulo.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/Op$mult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/Op$mult.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/Op$sub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/Op$sub.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/Op.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/Op.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/Expression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/Expression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/ExpressionEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/ExpressionEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/Operand$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/Operand$Companion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/Operand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/Operand.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/Operator$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/Operator$Companion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/Operator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/Operator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/OperatorKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/OperatorKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/Postfix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/Postfix.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/PostfixKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/PostfixKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/exception/InvalidSyntaxException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/exception/InvalidSyntaxException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/exception/NonOperationalOperatorException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/exception/NonOperationalOperatorException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/exception/NotAnOperatorException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/exception/NotAnOperatorException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/CloseBracketOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/CloseBracketOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/DivideOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/DivideOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/MinusOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/MinusOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/ModulusOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/ModulusOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/MultiplyOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/MultiplyOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/OpenBracketOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/OpenBracketOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/PlusOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/PlusOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/PowerOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/PowerOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/ModulusOperator.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/UnaryNegateOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/UnaryNegateOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/AbsoluteFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/AbsoluteFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/DegreesFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/DegreesFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/AbsoluteFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/DegreesFunction.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/FunctionOperator$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/FunctionOperator$Companion.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/FunctionOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/FunctionOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/RadiansFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/RadiansFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/RadiansFunction.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/SquareRootFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/SquareRootFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/CosineFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/CosineFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/InverseCosineFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/InverseCosineFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/InverseSineFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/InverseSineFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/InverseTangentFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/InverseTangentFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/InverseTrigFunction$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/InverseTrigFunction$Companion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/InverseTrigFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/InverseTrigFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/SineFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/SineFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/TangentFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/TangentFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/InverseCosineFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/InverseSineFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/InverseTangentFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/InverseTrigFunction$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/trigonometry/InverseTrigFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyView.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Operator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Operator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Postfix.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Postfix.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/ModulusOperator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/UnaryNegateOperator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/operator/UnaryNegateOperator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/function/AbsoluteFunction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/function/DegreesFunction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/function/FunctionOperator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/operator/function/FunctionOperator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/function/RadiansFunction.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/function/SquareRootFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/operator/function/SquareRootFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/function/trigonometry/InverseTrigFunction.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +56,7 @@
         <option value="FxmlFile" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -87,13 +78,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main" />
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="main.operator.function" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunManager" selected="Kotlin.MainKt">
@@ -171,7 +165,19 @@
       <option name="presentableId" value="Default" />
       <updated>1520101556447</updated>
     </task>
+    <task id="LOCAL-00001" summary="kupa.">
+      <created>1599061469627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599061469627</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kupa." />
+    <option name="LAST_COMMIT_MESSAGE" value="kupa." />
   </component>
   <component name="WindowStateProjectService">
     <state x="423" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599061158554">
@@ -182,45 +188,61 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="599" y="383" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599061200814" />
-    <state x="684" y="160" key="FileChooserDialogImpl" timestamp="1599061198455">
+    <state x="697" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600012272202">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="684" y="160" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599061198455" />
+    <state x="697" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600012272202" />
+    <state x="737" y="174" width="448" height="698" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1600012210448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="737" y="174" width="448" height="698" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600012210448" />
+    <state x="613" y="98" key="CommitChangelistDialog2" timestamp="1599061469399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="613" y="98" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1599061469399" />
+    <state x="684" y="160" key="FileChooserDialogImpl" timestamp="1599991728450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="684" y="160" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599991728450" />
     <state x="747" y="240" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1594299297614" />
-    <state width="616" height="123" key="GridCell.Tab.0.bottom" timestamp="1599061226523">
+    <state width="1874" height="218" key="GridCell.Tab.0.bottom" timestamp="1600246709510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="616" height="123" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599061226523" />
-    <state width="616" height="123" key="GridCell.Tab.0.center" timestamp="1599061226523">
+    <state width="1874" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600246709510" />
+    <state width="1874" height="218" key="GridCell.Tab.0.center" timestamp="1600246709510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="616" height="123" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599061226523" />
-    <state width="616" height="123" key="GridCell.Tab.0.left" timestamp="1599061226523">
+    <state width="1874" height="218" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600246709510" />
+    <state width="1874" height="218" key="GridCell.Tab.0.left" timestamp="1600246709510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="616" height="123" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599061226523" />
-    <state width="616" height="123" key="GridCell.Tab.0.right" timestamp="1599061226523">
+    <state width="1874" height="218" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600246709510" />
+    <state width="1874" height="218" key="GridCell.Tab.0.right" timestamp="1600246709510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="616" height="123" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599061226523" />
-    <state x="601" y="218" key="NewModule_or_Project.wizard" timestamp="1599060011996">
+    <state width="1874" height="218" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600246709510" />
+    <state x="601" y="218" width="736" height="606" key="NewModule_or_Project.wizard" timestamp="1599991732185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="601" y="218" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1599060011996" />
+    <state x="601" y="218" width="736" height="606" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1599991732185" />
     <state x="601" y="219" key="NewModule_or_Project.wizard/0.0.1920.1044@0.0.1920.1044" timestamp="1594299307102" />
-    <state x="611" y="191" key="SettingsEditor" timestamp="1599060209984">
+    <state x="611" y="191" key="SettingsEditor" timestamp="1599990235581">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="611" y="191" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599060209984" />
-    <state x="639" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1599061438109">
+    <state x="611" y="191" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599990235581" />
+    <state x="639" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1600242059218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="639" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599061438109" />
+    <state x="639" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600242059218" />
     <state x="639" y="353" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1594299284360" />
-    <state x="447" y="249" key="new project wizard" timestamp="1599061176098">
+    <state x="756" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599075096233">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="447" y="249" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1599061176098" />
+    <state x="756" y="441" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599075096233" />
+    <state x="447" y="249" width="850" height="596" key="new project wizard" timestamp="1599062926021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="447" y="249" width="850" height="596" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1599062926021" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>

@@ -22,10 +22,10 @@ abstract class Operator(val numberOfParameters: Int, val symbol: String) : Expre
         val POWER = PowerOperator()
         val OPEN_BRACKET = OpenBracketOperator()
         val CLOSE_BRACKET = CloseBracketOperator()
-        val MODULUS = ModulusOperator()
+        val NEGATE = UnaryNegateOperator()
 
         val OPERATORS: Array<Operator> = arrayOf(
-                PLUS, MINUS, TIMES, DIVIDE, POWER, OPEN_BRACKET, CLOSE_BRACKET, MODULUS
+                PLUS, MINUS, TIMES, DIVIDE, POWER, OPEN_BRACKET, CLOSE_BRACKET, NEGATE
         )
 
         fun isOperator(string: String): Boolean = OPERATORS.any { it.isStringEquivalent(string) }

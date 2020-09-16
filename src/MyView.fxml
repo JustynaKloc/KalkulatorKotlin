@@ -8,23 +8,18 @@
     <Label fx:id="displayStack" id="displayStack" />
 
     <Label fx:id="display" id="display" />
+
     <HBox>
-        <Button text="x^2"/>
-        <Button text="x^y"/>
         <Button text="sin"/>
-        <Button text="cos" styleClass="op"/>
-    </HBox>
-    <HBox>
-        <Button text="log"/>
-        <Button text="e^x"/>
-        <Button text="mod"/>
-        <Button text="10^x" styleClass="op"/>
-    </HBox>
-    <HBox>
-        <Button text="pi"/>
+        <Button text="cos"/>
         <Button text="tan"/>
+        <Button text="x^2" styleClass="op"/>
+    </HBox>
+    <HBox>
+        <Button text="x^y"/>
+        <Button text="log"/>
         <Button text="√x"/>
-        <Button text="2^x" styleClass="op"/>
+        <Button text="π" styleClass="op"/>
     </HBox>
     <HBox>
         <Button text="("/>

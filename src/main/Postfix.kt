@@ -18,8 +18,6 @@ object Postfix {
         var expression = Expression()
         var fix = infix.replace(" ", "")
         while (fix.isNotEmpty()) {
-            //  scanString appends the operand/operator to expression (ArrayList)
-            //  returns the left over string
             fix = scanString(fix, expression)
         }
 

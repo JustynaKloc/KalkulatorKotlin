@@ -1,9 +1,6 @@
 package main.operator.function
 
 import main.operator.function.trigonometry.CosineFunction
-import main.operator.function.trigonometry.InverseCosineFunction
-import main.operator.function.trigonometry.InverseSineFunction
-import main.operator.function.trigonometry.InverseTangentFunction
 import main.exception.InvalidSyntaxException
 import main.Operator
 import main.operator.function.trigonometry.*
@@ -13,19 +10,13 @@ abstract class FunctionOperator internal constructor(symbol: String, numOfParams
     companion object {
         
         val SINE = SineFunction()
-        val INVERSESINE = InverseSineFunction()
         val COSINE = CosineFunction()
-        val INVERSECOSINE = InverseCosineFunction()
         val TANGENT = TangentFunction()
-        val INVERSETAN = InverseTangentFunction()
-        val TODEGREES = DegreesFunction()
-        val TORADIANS = RadiansFunction()
         val SQRT = SquareRootFunction()
-        val ABSOLUTE = AbsoluteFunction()
-        
+        val LOG = LogFunction()
+
         val OPERATORS = arrayOf(
-                SINE, COSINE, TANGENT, TODEGREES, TORADIANS, SQRT,
-                INVERSESINE, INVERSECOSINE, INVERSETAN, ABSOLUTE
+                SINE, COSINE, TANGENT, SQRT, LOG
         )
 
         fun isOperator(str: String): Boolean = OPERATORS.any{ it -> it.isStringEquivalent(str)}
