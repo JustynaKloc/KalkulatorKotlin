@@ -3,6 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="7b13e29a-66a0-4499-8f68-5c3cb5e00780" name="Default" comment="kupa.">
       <change beforePath="$PROJECT_DIR$/TornadoFX.iws" beforeDir="false" afterPath="$PROJECT_DIR$/TornadoFX.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/Postfix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/Postfix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/PostfixKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/PostfixKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/LogFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TornadoFX/main/operator/function/LogFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Postfix.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Postfix.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/function/FunctionOperator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/operator/function/FunctionOperator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/function/LogFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/operator/function/LogFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/function/SquareRootFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/operator/function/SqrtFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/function/trigonometry/CosineFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/operator/function/trigonometry/CosFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/function/trigonometry/SineFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/operator/function/trigonometry/SinFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/operator/function/trigonometry/TangentFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/operator/function/trigonometry/TanFunction.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,22 +175,26 @@
     </state>
     <state x="684" y="160" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599991728450" />
     <state x="747" y="240" key="FileChooserDialogImpl/0.0.1920.1044@0.0.1920.1044" timestamp="1594299297614" />
-    <state width="1874" height="218" key="GridCell.Tab.0.bottom" timestamp="1600259459227">
+    <state width="1874" height="210" key="GridCell.Tab.0.bottom" timestamp="1600784973694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600259459227" />
-    <state width="1874" height="218" key="GridCell.Tab.0.center" timestamp="1600259459226">
+    <state width="1874" height="210" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600784973694" />
+    <state width="1874" height="224" key="GridCell.Tab.0.bottom/0.0.3840.1040@0.0.3840.1040" timestamp="1600779031597" />
+    <state width="1874" height="210" key="GridCell.Tab.0.center" timestamp="1600784973693">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="218" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600259459226" />
-    <state width="1874" height="218" key="GridCell.Tab.0.left" timestamp="1600259459226">
+    <state width="1874" height="210" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600784973693" />
+    <state width="1874" height="224" key="GridCell.Tab.0.center/0.0.3840.1040@0.0.3840.1040" timestamp="1600779031597" />
+    <state width="1874" height="210" key="GridCell.Tab.0.left" timestamp="1600784973692">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="218" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600259459226" />
-    <state width="1874" height="218" key="GridCell.Tab.0.right" timestamp="1600259459227">
+    <state width="1874" height="210" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600784973692" />
+    <state width="1874" height="224" key="GridCell.Tab.0.left/0.0.3840.1040@0.0.3840.1040" timestamp="1600779031597" />
+    <state width="1874" height="210" key="GridCell.Tab.0.right" timestamp="1600784973693">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1874" height="218" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600259459227" />
+    <state width="1874" height="210" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600784973693" />
+    <state width="1874" height="224" key="GridCell.Tab.0.right/0.0.3840.1040@0.0.3840.1040" timestamp="1600779031597" />
     <state x="601" y="218" width="736" height="606" key="NewModule_or_Project.wizard" timestamp="1599991732185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

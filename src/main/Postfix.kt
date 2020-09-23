@@ -66,10 +66,7 @@ object Postfix {
             
             if (c.isOperator()) {
                 if (i < 1) {
-                    /**
-                     * Determine whether the minus symbol is a unary negate operator or a minus operator.
-                     * Check the entity before it, if it's an operand, it's most likely not unary negate.
-                     */
+
                     if((postfix.isEmpty() || (postfix.last() !is Operand && postfix.last() !is CloseBracketOperator)) && Operator.MINUS.isStringEquivalent(c.toString())){
                         postfix.add(UnaryNegateOperator())
                     }else{
@@ -78,12 +75,8 @@ object Postfix {
                     return infix.substring(1)
                 } else if (Operator.OPEN_BRACKET.isStringEquivalent(c.toString())) {
 
-                    /**
-                     * If substring before the bracket is a valid function name, search functions
-                     * else if the substring is number, assume shorthand for multiplcation. E.g. 5(2) -> 5*2
-                     */
 
-                    if (firstPart.contains(Regex("\\d+"))) { //first part of expression has digit
+                    if (firstPart.contains(Regex("\\d+"))) {
                         if (isNumber(firstPart)) {
                             postfix.add(Operand.parse(firstPart))
                             return "*" + infix.substring(i)

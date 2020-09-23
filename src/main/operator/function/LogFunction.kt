@@ -2,7 +2,6 @@ package main.operator.function
 
 import main.Operand
 import main.bd
-import main.operator.function.FunctionOperator
 import kotlin.math.ln
 
 class LogFunction internal constructor() : FunctionOperator("log",1) {

@@ -1,6 +1,6 @@
 package main.operator.function
 
-import main.operator.function.trigonometry.CosineFunction
+import main.operator.function.trigonometry.CosFunction
 import main.exception.InvalidSyntaxException
 import main.Operator
 import main.operator.function.trigonometry.*
@@ -9,10 +9,10 @@ abstract class FunctionOperator internal constructor(symbol: String, numOfParams
     
     companion object {
         
-        val SINE = SineFunction()
-        val COSINE = CosineFunction()
-        val TANGENT = TangentFunction()
-        val SQRT = SquareRootFunction()
+        val SINE = SinFunction()
+        val COSINE = CosFunction()
+        val TANGENT = TanFunction()
+        val SQRT = SqrtFunction()
         val LOG = LogFunction()
 
         val OPERATORS = arrayOf(
